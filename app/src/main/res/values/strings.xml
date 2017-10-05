@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotasUdenar</string>
+    <string name="titulo">Mis calificaciones\nUdenar</string>
+    <string name="promedio">Promedio del semestre</string>
+    <string name="materia1">Programacion avanzada I</string>
+    <string name="materia2">Ingenieria legal</string>
+    <string name="materia3">Seminario II</string>
+    <string name="materia4">Seminario avanzado</string>
+    <string name="mensaje">Nota final</string>
+</resources>
